@@ -1,3 +1,6 @@
+import numpy as np
+
+
 class VectorPrep:
     def __init__(self, x=0, y=0, z=0, k=None):
         self.x = float(x)

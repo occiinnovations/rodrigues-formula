@@ -53,5 +53,11 @@ $$\Large R = I + (\sin\theta)K + (1 - \cos\theta)K^2$$
 
 $$\Large R = I + \sin(\theta)\big[\mathbf{k}\big]_\times + (1 - \cos(\theta))\big[\mathbf{k}\big]_\times^2$$
 
-$$\Large [\mathbf{k}\big]_\times = \begin{pmatrix} 0 & -k_z & k_y \\ k_z & 0 & -k_x \\ -k_y & k_x & 0 \end{pmatrix}$$
+$$
+\big[\mathbf{k}\big]_\times = \begin{pmatrix}
+0 & -k_z & k_y \\
+k_z & 0 & -k_x \\
+-k_y & k_x & 0
+\end{pmatrix}
+$$
 ________

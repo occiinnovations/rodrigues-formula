@@ -45,13 +45,13 @@ RodriguesFormula/
 
 If $v$ is a valid vector in $ℝ^3$, with $k$ being a unit vector such as $\hat{\imath}$, $\hat{\jmath}$, or $\hat{k}$, we can represent the formula as follows:
 
-$${\Large v_{rot} = v cos\theta + (k \times v)sin{\theta} + k(k\cdot v)(1-cos{\theta})}$$
+$${\Large v_{rot} = v \cos\theta + (k \times v)\sin{\theta} + k(k\cdot v)(1-cos{\theta})}$$
 
 Alternatively:
 
 $$\Large R = I + (\sin\theta)K + (1 - \cos\theta)K^2$$
 
-$$\Large R = I + \sin(\theta)\big[\mathbf{k}\big]_\times + (1 - \cos(\theta))\big[\mathbf{k}\big]_\times^2$$
+$$\Large R = I + \sin(\theta)\big[\mathbf{k}\big]_\times + (1 - \cos\theta)\big[\mathbf{k}\big]_\times^2$$
 
 $$
 \big[\mathbf{k}\big]_\times = \begin{pmatrix}

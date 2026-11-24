@@ -5,7 +5,7 @@ Rodrigues' Formula demonstrated in Python and Rust; intended to be used as a bui
 ### What is it?
 
 The Rodrigues' rotation formula calculates the position of a vector after rotation around an axis by an angle.
-The calculation uses the vector, the unit vector of the axis, and the angle. The formula maps the inputs to a \(3\times3\) matrix. Multiplying the vector by this matrix yields the rotated vector.
+The calculation uses the vector, the unit vector of the axis, and the angle. The formula maps the inputs to a $3\times3$ matrix. Multiplying the vector by this matrix yields the rotated vector.
 
 This project is the Rodrigues' Formula demonstrated in Python and Rust; intended to be used as a building block for other projects.
 _____________
